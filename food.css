@@ -69,7 +69,7 @@ h1 {
 }
 
 .h2 {
-    font-family:'Bevan', cursive;  /*headers for the menu*/
+    font-family: 'Oswald', sans-serif;;  /*headers for the menu*/
     text-align: center;
     float: right;
 }
@@ -81,7 +81,7 @@ h1 {
     float: right;
     display:block;
     position: relative;
-    left: 130px;
+    left: 220px;
     margin-top: 80px;
 }
 
@@ -91,17 +91,18 @@ h1 {
     color: #000000;
     float: left;
     position: relative;
-    left: 60px;
+    left: 90px;
     margin-top: 80px;
 }
-.dinner h5 {
+ h5 {
    position: relative;
-   right: 375px;
+   right: 400px;
 }
 .other {
-    font-size: 16px; /*This a way to have small text in the main dish*/
+    font-size: 14px; /*This a way to have small text in the main dish*/
     margin-left:10px;
 }
+
 .story  {
     display:block;
     font-family: cursive;
@@ -109,6 +110,7 @@ h1 {
     width:696px;
     margin-left:40px;
     float: left;
+    margin-top: 70px;
 }
 
 #fish {
@@ -116,6 +118,7 @@ h1 {
     margin-bottom: 20px;
     float: left;
 }
+
 .foot {
     background-color: #0047AB;
     height: 30px;
